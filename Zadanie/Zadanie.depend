@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1507547056 source:d:\grzegorzbielski\github\cw3\zadanie\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+
